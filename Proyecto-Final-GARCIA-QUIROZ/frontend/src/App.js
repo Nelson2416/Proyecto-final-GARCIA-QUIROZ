@@ -22,7 +22,7 @@ export default function App() {
         <Route path="/stats" element={<Statistics />} />
       </Routes>
 
-      <footer>© 2025 Mateo Ramírez — GameTracker Neo UI</footer>
+      <footer>© 2025 Giovanni García Nelson Quiroz — GameTracker Neo UI</footer>
     </BrowserRouter>
   );
 }
